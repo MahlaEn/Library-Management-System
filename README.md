@@ -2,6 +2,7 @@
 
 ## Introduction
 - This application is made to manage a library.
+
 ## Objectives
 - New people can register in library and login.
 - Users can see list of books , rent a book or return.
