@@ -1,12 +1,6 @@
 import java.util.Map;
 import java.util.*;
 public class Library {
-    /*
-    * The library should have a list of books.
-    * The library should have a map of books ISBNs which is linked to the amount of book
-    -> (for example: harry potter -> 4 means there are currently 4 harry potter books)
-    * The library should have a list of users and a list of librarians.
-     */
     public Library(){
         Scanner in = new Scanner(System.in);
         String userName,password;

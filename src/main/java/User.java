@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class User {
-    //User should have a list of books
-    //User should have a username and a password
-    //Book should contain name,author,year of publish and ISBN
     Scanner in = new Scanner(System.in);
     private String UserName ;
     private String Password;

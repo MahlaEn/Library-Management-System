@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Book {
-    //Book should contain name,author,year of publish and ISBN
     Scanner in = new Scanner(System.in);
     private String Name;
     private String Author;
